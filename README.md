@@ -47,8 +47,8 @@ A fall is **only** triggered if all the following conditions are met simultaneou
 
 **1. Clone the repository and navigate into it:**
 ```cmd
-git clone https://github.com/TheSwapnil18/elderly-activity-monitoring-system.git
-cd elderly-activity-monitoring-system
+git clone https://github.com/TheSwapnil18/elderly-activity-and-fall-monitoring-system.git
+cd elderly-activity-and-fall-monitoring-system
 ```
 
 **2. Create and Activate a Python Virtual Environment:**
