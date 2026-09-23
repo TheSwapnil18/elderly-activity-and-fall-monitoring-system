@@ -5,8 +5,8 @@
   "movement_threshold_px": 10,
   "fall_velocity_threshold": 0.4,
   "angle_3d_threshold": 55,
-  "telegram_bot_token": "8719214387:AAFlHVLbgmpIY7q0UGKqdMFkPGfWM5haX6M",
-  "telegram_chat_id": "5776686318",
+  "telegram_bot_token": "YOUR_TELEGRAM_BOT_TOKEN_HERE",
+  "telegram_chat_id": "YOUR_TELEGRAM_CHAT_ID_HERE",
   "enable_telegram": true,
   "buzzer_enabled": true,
   "buzzer_pin": 17
