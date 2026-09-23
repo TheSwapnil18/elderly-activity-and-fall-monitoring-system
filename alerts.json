@@ -1,0 +1,92 @@
+[
+    {
+        "timestamp": "2026-07-29 19:27:02",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    },
+    {
+        "timestamp": "2026-07-29 19:26:45",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    },
+    {
+        "timestamp": "2026-07-29 01:13:02",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    },
+    {
+        "timestamp": "2026-06-06 11:12:18",
+        "description": "Warning: No movement detected for 15 seconds (State: INACTIVE)",
+        "state": "INACTIVE"
+    },
+    {
+        "timestamp": "2026-06-06 11:10:41",
+        "description": "Emergency: Sudden fall detected by AI tracking system",
+        "state": "FALL ALERT"
+    },
+    {
+        "timestamp": "2026-06-06 11:10:06",
+        "description": "Warning: No movement detected for 15 seconds (State: INACTIVE)",
+        "state": "INACTIVE"
+    },
+    {
+        "timestamp": "2026-06-06 11:09:42",
+        "description": "Warning: No movement detected for 15 seconds (State: INACTIVE)",
+        "state": "INACTIVE"
+    },
+    {
+        "timestamp": "2026-06-06 11:00:49",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    },
+    {
+        "timestamp": "2026-05-27 14:43:57",
+        "description": "Warning: No movement detected for 15 seconds (State: INACTIVE)",
+        "state": "INACTIVE"
+    },
+    {
+        "timestamp": "2026-05-27 14:37:59",
+        "description": "Warning: No movement detected for 15 seconds (State: INACTIVE)",
+        "state": "INACTIVE"
+    },
+    {
+        "timestamp": "2026-05-26 11:18:40",
+        "description": "Emergency: Sudden fall detected by AI tracking system",
+        "state": "FALL ALERT"
+    },
+    {
+        "timestamp": "2026-05-26 11:16:43",
+        "description": "Emergency: Sudden fall detected by AI tracking system",
+        "state": "FALL ALERT"
+    },
+    {
+        "timestamp": "2026-05-26 10:21:56",
+        "description": "Emergency: Sudden fall detected by AI tracking system",
+        "state": "FALL ALERT"
+    },
+    {
+        "timestamp": "2026-05-23 15:27:13",
+        "description": "Warning: No movement detected for 15 seconds (State: INACTIVE)",
+        "state": "INACTIVE"
+    },
+    {
+        "timestamp": "2026-05-23 15:18:35",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    },
+    {
+        "timestamp": "2026-05-23 08:17:02",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    },
+    {
+        "timestamp": "2026-05-22 17:21:43",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    },
+    {
+        "timestamp": "2026-05-22 15:03:04",
+        "description": "Manual: User triggered a test system alert",
+        "state": "TEST ALERT"
+    }
+]

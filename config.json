@@ -1,0 +1,13 @@
+{
+  "video_source": "0",
+  "normal_inactivity_threshold": 15,
+  "sleep_inactivity_threshold": 30,
+  "movement_threshold_px": 10,
+  "fall_velocity_threshold": 0.4,
+  "angle_3d_threshold": 55,
+  "telegram_bot_token": "8719214387:AAFlHVLbgmpIY7q0UGKqdMFkPGfWM5haX6M",
+  "telegram_chat_id": "5776686318",
+  "enable_telegram": true,
+  "buzzer_enabled": true,
+  "buzzer_pin": 17
+}
