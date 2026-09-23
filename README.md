@@ -69,6 +69,13 @@ The new MediaPipe Tasks API requires the `.task` model file to be downloaded loc
 python -c "import urllib.request; urllib.request.urlretrieve('https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task', 'pose_landmarker_lite.task')"
 ```
 
+**5. Configure the Application:**
+Copy the template configuration file to create your own local `config.json`.
+```cmd
+copy config.example.json config.json
+```
+Open `config.json` and replace `"YOUR_TELEGRAM_BOT_TOKEN_HERE"` and `"YOUR_TELEGRAM_CHAT_ID_HERE"` with your actual Telegram bot credentials.
+
 ---
 
 ## 🏃 Usage Instructions
