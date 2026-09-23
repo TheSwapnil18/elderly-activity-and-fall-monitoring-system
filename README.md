@@ -1,4 +1,4 @@
-# 🛡️ Elderly Activity & Fall Monitoring System
+# 🛡️ Elderly Activity and Fall Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-Video_Capture-green?style=flat-square&logo=opencv&logoColor=white)]()
