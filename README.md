@@ -45,9 +45,10 @@ A fall is **only** triggered if all the following conditions are met simultaneou
 
 ## 🚀 Setup & Installation (Windows)
 
-**1. Open your terminal in the project directory:**
+**1. Clone the repository and navigate into it:**
 ```cmd
-cd path/to/DIY Project
+git clone https://github.com/TheSwapnil18/elderly-activity-monitoring-system.git
+cd elderly-activity-monitoring-system
 ```
 
 **2. Create and Activate a Python Virtual Environment:**
